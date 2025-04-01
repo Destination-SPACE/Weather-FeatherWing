@@ -10,7 +10,7 @@
 		(rev "1.3.0")
 		(comment 1 "Madison Gleydura")
 		(comment 2 "FINAL")
-		(comment 3 "2024")
+		(comment 3 "2025")
 	)
 	(lib_symbols
 		(symbol "lib_sch:+3V3"
