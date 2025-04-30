@@ -6188,8 +6188,17 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "CRCW0603470RJNEB"
+		(property "MPN" "CRCW0603470RJNEB"
 			(at 226.06 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DKPN" "541-CRCW0603470RJNEBCT-ND"
+			(at 228.6 120.65 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6222,15 +6231,6 @@
 				(font
 					(size 1.016 1.016)
 				)
-			)
-		)
-		(property "DKPN" "541-CRCW0603470RJNEBCT-ND"
-			(at 228.6 120.65 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6480,7 +6480,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "LPS22HBTR"
+		(property "MPN" "LPS22HBTR"
 			(at 63.5 120.65 0)
 			(effects
 				(font
@@ -7329,6 +7329,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "GRM188R72A104MA35D"
+			(at 142.24 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DKPN" "490-16327-1-ND"
+			(at 142.24 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "20%"
 			(at 144.145 116.84 0)
 			(do_not_autoplace yes)
@@ -7357,24 +7375,6 @@
 					(size 1.016 1.016)
 				)
 				(justify left)
-			)
-		)
-		(property "MPN" "GRM188R72A104MA35D"
-			(at 142.24 113.665 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DKPN" "490-16327-1-ND"
-			(at 142.24 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7525,8 +7525,17 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "CRCW06034K70JNEA"
+		(property "MPN" "CRCW06034K70JNEA"
 			(at 17.78 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DKPN" "541-4.7KGCT-ND"
+			(at 17.78 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7562,15 +7571,6 @@
 					(size 1.016 1.016)
 				)
 				(justify left)
-			)
-		)
-		(property "DKPN" "541-4.7KGCT-ND"
-			(at 17.78 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8455,6 +8455,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "GRM188R60J106KE47D"
+			(at 92.71 19.685 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DKPN" "490-12538-1-ND"
+			(at 92.71 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "10%"
 			(at 94.615 22.86 0)
 			(do_not_autoplace yes)
@@ -8483,24 +8501,6 @@
 					(size 1.016 1.016)
 				)
 				(justify left)
-			)
-		)
-		(property "MPN" "GRM188R60J106KE47D"
-			(at 92.71 19.685 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DKPN" "490-12538-1-ND"
-			(at 92.71 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9975,6 +9975,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "GRM188R72A104MA35D"
+			(at 48.26 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DKPN" "490-16327-1-ND"
+			(at 48.26 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "20%"
 			(at 46.355 110.49 0)
 			(do_not_autoplace yes)
@@ -10003,24 +10021,6 @@
 					(size 1.016 1.016)
 				)
 				(justify left)
-			)
-		)
-		(property "MPN" "GRM188R72A104MA35D"
-			(at 48.26 107.315 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DKPN" "490-16327-1-ND"
-			(at 48.26 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10308,8 +10308,17 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "CRCW06034K70JNEA"
+		(property "MPN" "CRCW06034K70JNEA"
 			(at 29.21 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DKPN" "541-4.7KGCT-ND"
+			(at 29.21 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10345,15 +10354,6 @@
 					(size 1.016 1.016)
 				)
 				(justify left)
-			)
-		)
-		(property "DKPN" "541-4.7KGCT-ND"
-			(at 29.21 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -10635,6 +10635,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "GRM188R72A104MA35D"
+			(at 100.33 19.685 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DKPN" "490-16327-1-ND"
+			(at 100.33 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Tolerance" "20%"
 			(at 102.235 22.86 0)
 			(do_not_autoplace yes)
@@ -10663,24 +10681,6 @@
 					(size 1.016 1.016)
 				)
 				(justify left)
-			)
-		)
-		(property "MPN" "GRM188R72A104MA35D"
-			(at 100.33 19.685 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DKPN" "490-16327-1-ND"
-			(at 100.33 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "1"
