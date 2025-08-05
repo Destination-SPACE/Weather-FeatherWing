@@ -5,7 +5,7 @@ KiCad files for the Weather FeatherWing v1.4
 View schematic and PCB files with [KiCanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2FDestination-SPACE%2FDS-Weather-Station-V5%2Ftree%2Fmain%2Fhardware%2Fweather-featherwing)
 
 ## Directory
-### [🧾 Bill of Materials]()
+### [🧾 Bill of Materials](manufacturing/assembly/weather-featherwing_bom.csv)
 ### [📐 Gerbers](manufacturing/fabrication/gerbers)
 ### [📰 Schematics](manufacturing/assembly)
 
