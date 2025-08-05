@@ -58,40 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "clearance|135272500|107825000|a397478e-ee10-4921-98c3-c210d5845bed|5381ed6d-7068-42a5-8f7c-6a6d8030f73c",
-          ""
-        ],
-        [
-          "clearance|135272500|108325000|5381ed6d-7068-42a5-8f7c-6a6d8030f73c|0e0e6a20-b181-49d3-9b1b-329cf077e01a",
-          ""
-        ],
-        [
-          "clearance|135515000|108567500|0e0e6a20-b181-49d3-9b1b-329cf077e01a|3395911c-bfe5-438f-92e0-da93a3da3020",
-          ""
-        ],
-        [
-          "clearance|135765000|107035500|a7a2c055-1487-4e6d-83c4-879697d458d7|dd7228d0-0292-43dc-bf56-b14e200f1146",
-          ""
-        ],
-        [
-          "clearance|136015000|108567500|3395911c-bfe5-438f-92e0-da93a3da3020|4b41149c-4d92-4f2f-bf65-4caf78c2c588",
-          ""
-        ],
-        [
-          "clearance|136515000|107575000|377a7fe6-ff8a-4e01-b50f-5f90b653e218|3f4031f5-db5f-47d1-897c-c7ed81c2bf87",
-          ""
-        ],
-        [
-          "clearance|136515000|108567500|4b41149c-4d92-4f2f-bf65-4caf78c2c588|21dfc8f6-438a-47e2-bba9-3a239188aca0",
-          ""
-        ],
-        [
-          "clearance|136804500|108075000|21dfc8f6-438a-47e2-bba9-3a239188aca0|377a7fe6-ff8a-4e01-b50f-5f90b653e218",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -645,7 +612,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": false
+          "show": true
         },
         {
           "group_by": true,
@@ -759,7 +726,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "kicad-embed://Destination_Space_Master_v7.kicad_wks",
-    "plot_directory": "",
+    "plot_directory": "manufacturing/assembly/",
     "space_save_all_events": true,
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
