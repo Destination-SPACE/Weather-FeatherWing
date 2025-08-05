@@ -9,7 +9,7 @@
 		(at 0 -2 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "5a87910d-e03a-46b1-9f48-07a9162b1b7e")
+		(uuid "4e74fb62-e38d-446b-9044-043fe2c3e2ab")
 		(effects
 			(font
 				(size 1 1)
@@ -20,7 +20,7 @@
 	(property "Value" "Fiducial"
 		(at 0 2 0)
 		(layer "F.Fab")
-		(uuid "77ddd45b-bb7a-466f-9fb9-9d29f7f62b12")
+		(uuid "02fb8766-17f6-41bf-aefa-4fc890a557fc")
 		(effects
 			(font
 				(size 1 1)
@@ -28,11 +28,11 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
+	(property "Datasheet" "~"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "2a359508-1a64-4725-bfc6-045a2597c07f")
+		(uuid "0096237e-222c-4b00-8e3b-6ab373c21dcd")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +44,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "65ade150-88f5-4d34-ad81-f6a206a327c2")
+		(uuid "c1f14739-b804-49be-ace7-cec66ebbf2aa")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -52,11 +52,11 @@
 			)
 		)
 	)
-	(property "Manufacturer" ""
+	(property "Manufacturer" "~"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "18a18902-0400-4c23-bc76-e59239abbf63")
+		(uuid "b360a806-8cf5-4b3b-a571-db2b4ba33cf3")
 		(effects
 			(font
 				(size 1 1)
@@ -64,11 +64,11 @@
 			)
 		)
 	)
-	(property "mpn" ""
+	(property "mpn" "~"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "07404cec-26d1-4457-9ed4-6bc7bfc2eb7f")
+		(uuid "d95e5ac6-076b-4572-87c4-4c8772eea67e")
 		(effects
 			(font
 				(size 1 1)
@@ -80,7 +80,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ad8c926f-6fc3-44ae-a7d8-50abcb2f4ba5")
+		(uuid "c45deef2-22d9-4326-b8d1-3e38c38ea5a9")
 		(effects
 			(font
 				(size 1 1)
@@ -98,7 +98,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "a29b9065-0875-4209-bde4-e797a5ffca37")
+		(uuid "2e8f4321-88d8-4c2b-b2cb-adcb17232aec")
 	)
 	(fp_circle
 		(center 0 0)
@@ -109,12 +109,12 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "0b4595e7-1aa3-4e35-9b35-b3c1f230d6fb")
+		(uuid "b62a5e43-6bf5-40b8-bc5a-3e9828d3873f")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "33baf33c-ca69-48d4-bef9-f66c8bf78f2e")
+		(uuid "8527518f-0ea4-4431-a779-9b4c468cfc15")
 		(effects
 			(font
 				(size 0.4 0.4)
@@ -128,7 +128,7 @@
 		(layers "F.Cu" "F.Mask")
 		(solder_mask_margin 0.5)
 		(clearance 0.5)
-		(uuid "6615833a-7066-40f8-bedc-456482bf3b6c")
+		(uuid "0eb9b4a8-cc8d-40ca-b16c-c98253b702dd")
 	)
 	(embedded_fonts no)
 )

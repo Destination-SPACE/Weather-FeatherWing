@@ -540,7 +540,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "manufacturing/fabrication/gerber/",
+      "plot": "manufacturing/fabrication/gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "3d_models/weather-featherwing.step",

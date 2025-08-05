@@ -4197,10 +4197,6 @@
 		(uuid "4415c49a-b946-4824-854e-79e5dff0879a")
 	)
 	(no_connect
-		(at 35.56 34.29)
-		(uuid "50775e01-d8ed-4447-b2e8-ac22d0f422cc")
-	)
-	(no_connect
 		(at 35.56 26.67)
 		(uuid "5cec250f-b12c-40fb-bc39-a116a1fd20ad")
 	)
@@ -4211,6 +4207,10 @@
 	(no_connect
 		(at 11.43 36.83)
 		(uuid "8e016488-2617-40e8-8a92-df4df91d0b9a")
+	)
+	(no_connect
+		(at 35.56 31.75)
+		(uuid "916df098-1623-402f-a243-989338344a27")
 	)
 	(no_connect
 		(at 35.56 21.59)
@@ -4430,7 +4430,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 34.29) (xy 35.56 34.29)
+			(xy 30.48 34.29) (xy 38.1 34.29)
 		)
 		(stroke
 			(width 0)
@@ -4717,6 +4717,16 @@
 			(type default)
 		)
 		(uuid "68fca34e-3a91-4570-9ff7-cf65225aba89")
+	)
+	(wire
+		(pts
+			(xy 30.48 31.75) (xy 35.56 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69167c1d-d5b8-413a-a4bb-2d870166652a")
 	)
 	(wire
 		(pts
@@ -5077,16 +5087,6 @@
 			(type default)
 		)
 		(uuid "afe569f8-0a82-40d3-bd05-10453eff5ff1")
-	)
-	(wire
-		(pts
-			(xy 30.48 31.75) (xy 38.1 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b2380c25-61f2-47e8-ba10-b2dc30224d10")
 	)
 	(wire
 		(pts
@@ -5648,6 +5648,16 @@
 		)
 		(uuid "4a253105-9a8e-4d0a-bdd2-8846b48cdfe0")
 	)
+	(label "NP_DIN"
+		(at 38.1 34.29 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4cb215bc-1e73-48c9-b46e-c3be54720fff")
+	)
 	(label "A1"
 		(at 11.43 29.21 0)
 		(effects
@@ -5908,16 +5918,6 @@
 		)
 		(uuid "e652d7d3-5fc4-4a0b-acf6-94e338e82933")
 	)
-	(label "D9"
-		(at 35.56 34.29 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ec8c411c-57e0-430a-a388-754c4978a866")
-	)
 	(label "A5"
 		(at 11.43 39.37 0)
 		(effects
@@ -5938,15 +5938,15 @@
 		)
 		(uuid "f3bed7b6-686b-47d6-aa89-40296532d5cd")
 	)
-	(label "NP_DIN"
-		(at 38.1 31.75 180)
+	(label "D10"
+		(at 35.56 31.75 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "f7e2c783-fff9-4d0b-bce4-03ea0a8f9629")
+		(uuid "f81da7ea-4ed1-47ff-bb3e-d0469a2ad8bf")
 	)
 	(label "RST"
 		(at 11.43 16.51 0)
@@ -10252,7 +10252,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DS-Master-Mounting-Holes:M2.54_NPTH"
+		(property "Footprint" "lib_fp:M2.54_NPTH"
 			(at 57.15 36.83 0)
 			(effects
 				(font
