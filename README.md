@@ -6,7 +6,6 @@ View schematic and PCB files with [KiCanvas](https://kicanvas.org/?github=https%
 
 ## Directory
 ### [🧾 Bill of Materials](manufacturing/assembly/bom.md)
-### [📄 Datasheets](datasheets)
 ### [📐 Gerbers](manufacturing/fabrication/gerber)
 ### [📰 Schematics](manufacturing/assembly)
 
